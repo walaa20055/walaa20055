@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Walaa Saeed</h1>
-<h3 align="center">Frontend Developer from Egypt | Building Responsive & User-Friendly UIs</h3>
-
-- 💬 Ask me about **react**
+<h1 align="center">Hi 👋, I'm Walaa Saeed Frontend Developer</h1>
+<h3 align="center">A passionate Frontend Developer from Egypt.</h3>
 
 - 📫 How to reach me **walaasaeed305@gmail.com**
 
